@@ -1,0 +1,1196 @@
+@media screen and (min-width: 1200px) and (max-width: 1310px){
+    .hk_domain_search_wrapper{
+        width: calc(1170px + 30px);
+    }
+}
+@media screen and (max-width: 991px){
+    /* SEARCH DOMAIN PAGE */
+    .domain-search .hk_domain_search .hk_domain_search_wrapper{
+        padding-top:90px;
+        padding-bottom: 95px;
+        text-align: center;
+    }
+    .domain-search .hk_domain_search_result_wrapper{
+        text-align: center;
+    }
+    .hk_domain_available .hk_left_tick{
+        display: block;
+    }
+    .hk_domain_available .hk_left_tick span{
+        padding: 10px;
+        background: #0096ff;
+        border-radius: 50%;
+        color: #fff;
+    }
+    .hk_domain_search_result_wrapper .hk_domain_available,
+    .hk_domain_search_result_wrapper .hk_domain_price{
+        float: none;
+    }
+    .hk_domain_available .hk_right_content{
+        padding-left: 0;
+        margin-bottom: 20px;
+    }
+
+    .hk_info .hk_span_left{
+        width: 120px;
+    }
+    .hk_form_wrapper .hk_input_half_width.left{
+        margin-right: 15px;
+    }
+    .hk_form_wrapper .hk_input_half_width {
+        display: inline-block;
+        width: calc(50% - 10px);
+    }
+    .hk_support_form .hk_message {
+        height: 155px;
+    }
+    
+    /* CART PAGE CSS */
+    .hk_price_select{
+        padding: 0;
+    }
+    .table.table-bordered .hk_cart_item td{
+        padding: 20px 25px;
+    }
+    .hk_coupon{
+        width: 60%;
+    }
+    .coupon_btn{
+        width: 39%;
+    }
+    .hk_purchase_procced_area > ul > li{
+        padding: 0 30px;
+
+    }
+    .hk_purchase_procced_area ul li .title,
+    .hk_purchase_procced_area ul li .price{
+        font-size: 16px;
+        line-height: 40px;
+    }
+    .hk_puchase_wrapper .hk_proccen_btn{
+        float: none;
+    }
+    .hk_purchase_procced_area ul .hk_total{
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+    .hk_puchase_wrapper{
+        padding: 0;
+        text-align: center;
+    }
+}
+@media (min-width: 768px){
+    
+}
+/*
+////////////// MEDIUM DEVICES //////////////
+*/
+@media (min-width: 992px) and (max-width: 1199px){
+    /* menu area */
+    .hk_has_mehgamenu .hk_megamenu{
+        width: calc(100% + 150px);
+    }
+    .hk_mainmenu .navbar-nav li > a{
+        padding: 0 10px;
+    }
+    .hk_login{
+        margin-right: 0;
+    }
+
+    /* slider area */
+    .hk_slider_title{
+        line-height: 58px;
+        margin-bottom: 5px;
+        margin-top: 10px;
+    }
+
+    /* domain search area */
+    .hk_domain_search_wrapper{
+        padding: 55px 0;
+        width: 970px;
+    }
+    /*.domain_name{
+        width: 42%;
+    }*/
+    .host_home1 .domain_name{
+        width: 67%;
+    }
+    .hk_search_form .hk_btn{
+        padding-left: 35px;
+        padding-right: 35px;
+    }
+    .hk_domain_info h2{
+        font-size: 25px;
+    }
+    .hk_domains_price_name > span{
+        padding-right: 25px;
+    }
+    .hk_domains_price_name > span::after{
+        right: 10px;
+    }
+    .hk_single_feature.hk_plrb{
+        padding: 0 35px 35px;
+    }
+    .hk_single_feature.hk_pbr{
+        padding-right: 35px;
+    }
+    .hk_single_feature.hk_plb{
+        padding-left: 35px;
+    }
+    .hk_single_feature.hk_ptr{
+        padding-right: 40px;
+    }
+    .hk_single_feature.hk_pltr{
+        padding: 40px 35px 0;
+    }
+
+    /* app install area */
+    .hk_app_svg_content{
+        top: -115px;
+    }
+    .hk_birds{
+        width: 280px;
+    }
+    .hk_cloud{
+        width: 400px;
+        top: 32px;
+    }
+    .hk_rocket{
+        margin-top: 62px;
+        width: 270px;
+    }
+    
+    /* pricing area */
+    .hk_pricing_title{
+        height: 77px;
+    }
+    .hk_pricing_bg svg#icons{
+        height: 100%;
+        width: 100%;
+    }
+    .hk_price_select{
+        padding: 0 16px;
+    }
+    /* testimonial area */
+    .hk_partner{
+        width: calc(50% - 84px);
+        padding: 20px;
+    }
+    
+    /* app area */
+    .hk_apps_section{
+        padding-bottom: 0;
+    }
+    /* promot area */
+    .hk_promot_text h2{
+        font-size: 27px;
+    }
+
+    /* ===============WEB HOSTING PAGE CSS============== */
+    .hk_single_part{
+        padding: 0;
+    }
+    .hk_arrow .hk_arrow_img_wrapper{
+        padding: 0 40px;
+    }
+    
+    /* =============== CONTACT PAGE CSS ============== */
+    .hk_info .hk_span_left{
+        width: 150px;
+    }
+    
+    /* =============== DOMAIN PAGE CSS ============== */
+    .domain-search .domain_name{
+        width: 60%;
+    }
+}
+
+
+/*////////////// TAB OR LARGE MOBILE PHONE //////////////*/
+@media (min-width: 768px) and (max-width: 991px){
+    .coantainer{
+        width: 750px;
+    }
+    .hk_section_padding{
+        padding-top: 90px;
+        padding-bottom: 100px;
+    }
+    .hk_section_title h1{
+        line-height: 48px;
+        font-size: 30px;
+    }
+    /* header area */
+    .host_home1 .hk_package_title h1{
+        font-size: 35px;
+    }
+    .host_home1 .hk_package_desc > p{
+        font-size: 14px;
+        line-height: 25px;
+    }
+    .host_home1 .hk_pack_feature ul li{
+        
+    }
+    .host_home1 .hk_hosting_pricing{
+        left: 50%;
+        -webkit-transform: translateX(-50%);
+        -ms-transform: translateX(-50%);
+        -o-transform: translateX(-50%);
+        transform: translateX(-50%);
+    }
+    .host_home1 .hk_domain_info{
+        padding-bottom: 10px;
+    }
+    /* menu area */
+    .navbar-default .navbar-collapse{
+        padding-right: 0;
+    }
+    .hk_mainmenu .navbar > .container .navbar-brand{
+        width: 83px;
+    }
+    .hk_has_mehgamenu .hk_megamenu{
+        width: calc(100% + 125px);
+    }
+    .hk_megamenu > ul{
+        padding: 0 10px;
+    }
+    .hk_has_mehgamenu .hk_megamenu ul li a{
+        padding: 9px 15px;
+    }
+    .hk_mainmenu .navbar-nav li > a{
+        padding: 0 5px;
+        font-size: 12px;
+    }
+    .hk_login {
+        line-height: 40px;
+        margin: 0 10px;
+        padding: 0 30px;
+        font-size: 14px;
+    }
+    .hk_small_title{
+        font-size: 18px;
+    }
+    .hk_domain_info{
+        padding-bottom: 40px;
+    }
+    .hk_slider_title{
+        font-size: 38px;
+        line-height: 45px;
+        margin-bottom: 10px;
+        margin-top: 10px;
+    }
+    .hk_menu_btn_wrapper{
+        padding-top: 23px;
+    }
+    
+    /* domian search */
+    .hk_domain_search_wrapper{
+        padding:50px 0;
+        width: calc(750px - 30px);
+    }
+    
+    /* service area */
+    .hk_single_feature.hk_plrb{
+        padding: 0 27px 30px;
+    }
+    .hk_single_feature.hk_pbr{
+        padding-right: 27px;
+        padding-bottom: 30px;
+    }
+    .hk_single_feature.hk_plb{
+        padding-left: 27px;
+        padding-bottom: 30px;
+    }
+    .hk_single_feature.hk_ptr{
+        padding-right: 27px;
+        padding-top: 30px;
+    }
+    .hk_single_feature.hk_pltr{
+        padding: 27px 30px 0;
+    }
+    .hk_single_feature.hk_plt{
+        padding-left: 30px;
+    }
+    
+    /* pricing area */
+    .hk_single_price_table{
+        margin-bottom: 60px;
+    }
+    /* .hk_single_price_table:nth-child(3),
+    .hk_single_price_table:last-child{
+        margin-bottom: 0;
+    } */
+    .hk_pricing_section .row > .col-md-3:nth-child(3) > .hk_single_price_table,
+    .hk_pricing_section  .row > .col-md-3:last-child > .hk_single_price_table{
+        margin-bottom: 0;
+    }
+    .hk_pricing_title{
+        margin-bottom: 46px;
+    }
+    
+    /* promot area */
+    .hk_promot_section2 .hk_promot_wrapper{
+        padding-top: 70px;
+    }
+
+    /* services area */
+    .hk_sevice_wrapper{
+        padding-top: 20px;
+    }
+    .hk_sercvice_title{
+        font-size: 14px;
+    }
+    .service_center_icon {
+        padding: 59px 25px 0;
+    }
+    .hk_single_hosting_service.hk_left_hosting::before{
+        left: calc(100% + 10px);
+    }
+    .hk_single_hosting_service.hk_right_hosting::before{
+        right: calc(100% + 10px);
+    }
+    
+
+    /* app installs */
+    .hk_apps_area_wrapper{
+        padding:75px 0;
+    }
+    .hk_app_svg_content{
+        top: -106px;
+    }
+    .hk_rocket{
+        width: 300px;
+    }
+    .hk_birds{
+        width: 250px;
+    }
+    .hk_cloud{
+        width: 420px;
+    }
+
+    /* testimonial area */
+    .hk_testimonial_wrapper .hk_section_title h1{
+        font-size: 27px;
+    }
+    .hk_testimonial_slider_wrapper_right .testimonial_slider_wrapper{
+        padding-top: 20px;
+        padding-bottom: 10px;
+    }
+    .hk_partner{
+        position: initial;
+        overflow: hidden;
+        width: 100%;
+    }
+    .hk_testimonial_contents{
+        border-left: none;
+    }
+
+    .hk_testimonial_slider2 .hk_testimonial_slider_wrapper{
+        padding: 0 40px;
+    }
+    /* promot section */
+    .hk_promot_section{
+        padding: 60px 0;
+    }
+    .hk_promot_text h2{
+        font-size: 21px;
+    }
+
+    .hk_single_part{
+        padding: 0;
+    }
+    .hk_arrow .hk_arrow_img_wrapper {
+      padding: 0 137px;
+    }
+    .hk_arrow{
+        z-index: -2;
+        left: -23px;
+    }
+
+    /* CONTACT PAGE */
+    #hk_map_area{
+        height: 350px;
+    }
+    
+    /* CHECKOT PAGE */
+    .hk_purchase_procced_area > ul > li.hk_payment{
+        padding: 15px 25px;
+    }
+}
+
+
+/*////////////// CUSTOM RESPONSIVE CSS //////////////*/
+@media screen and (max-width: 767px){
+    .container{
+        width: 450px;
+    }
+    .hk_section_padding{
+        padding-top: 60px;
+        padding-bottom: 72px;
+    }
+    .hk_btn{
+        font-size: 14px;
+        line-height: 45px;
+    }
+    .hk_lang_dropdown{
+        padding-top: 26px;
+    }
+    .hk_tiny_header,
+    .tiny_header2{
+        text-align: center;
+    }
+    .hk_breadcrumb_title > h1{
+        font-size: 26px;
+    }
+    .hk_section_title h1{
+        font-size: 30px;
+    }
+    .hk_title_subtext{
+        width: 100%;
+    }
+    .hk_tiny_header{
+        padding: 20px 0;
+    }
+    .hk_tiny_header .hk_social_icons{
+        display: block;
+        text-align: center;
+        margin-bottom: 10px;
+    }
+    .hk_tiny_header .hk_contact_lang{
+        float: none;
+        display: block;
+        text-align: center;
+    }
+    .login_modal_wrapper{
+        right: -68px;
+        top: calc(100% + 21px)   
+    }
+    .hk_menu_btn_wrapper{
+        display: none;
+    }
+
+    /* home-2 header area */
+    .hk_hosting_pricing{
+        display: none;
+    }
+    .hk_header_single_service .hk_service_icon{
+        height: 30px;
+        width:30px;
+    }
+    .hk_header_single_service > p{
+        font-size: 13px;
+        padding: 0 5px;
+    }
+    .hk_package_title h1{
+        font-size: 28px;
+    }
+    .hk_package_desc > p{
+        font-size: 14px;
+        line-height: 25px;
+    }
+    .hk_pack_feature ul li{
+        font-size: 14px;
+        line-height: 30px;
+    }
+    .host_home1 .hk_domain_info{
+        margin-bottom: 15px;
+    }
+    
+    /* menu area */
+    .container > .navbar-header{
+        margin: 0;
+    }
+    nav.navbar.hk_nav_shadow.navbar-default .container{
+        position: relative;
+    }
+    #bs-example-navbar-collapse-1{
+        padding: 0;
+        position: absolute;
+        width: 100%;
+        z-index: 999;
+        background: #fff;
+        max-height: calc(100vh - 20px);
+    }
+    .nav.navbar-nav{
+        border: 1px solid #eee;
+        padding: 10px 0;
+        margin: 0;
+    }
+    .hk_mainmenu .navbar > .container .navbar-brand{
+        padding: 7px 0 0;
+    }
+    .hk_mainmenu .navbar-nav li > a{
+        line-height: 35px;
+        cursor: pointer;
+        padding: 5px 20px;+
+    }
+    .hk_mainmenu .navbar-nav li > a:before{
+        display: none;
+    }
+    .hk_has_dropdown,.hk_has_megamenu{
+        position: relative;
+    }
+    .hk_has_dropdown .hk_dropdwon, .hk_has_mehgamenu .hk_megamenu{
+        position: initial;
+        opacity: 1;
+        visibility: visible;
+        width: 100%;
+        transition: none;
+        padding: 0;
+    }
+    .hk_megamenu > ul{
+        float: none;
+        width: 100%;
+        padding: 0;
+    }
+
+    .hk_has_mehgamenu .hk_megamenu ul li{
+        border-bottom: 1px solid #262d3d;
+    }
+    .hk_has_mehgamenu .hk_megamenu ul li a:hover{
+        color: #79848d;
+        background: #293348;
+    }
+    /* slider area */
+    .hk_slider_globe_wrapper{
+        width: 100%;
+    }
+    .hk_slider_contents .slider p{
+        display: none;
+    }
+    .hk_small_title{
+        font-size: 16px;
+        line-height:20px;
+    }
+    .hk_slider_title{
+        line-height: 33px;
+        font-size: 28px;
+        margin:10px 0 20px;
+    }
+    .hk_slider_contents .slider p{
+        font-size: 14px;
+    }
+    
+    /* domain search area */
+    .hk_domain_search .hk_domain_search_wrapper{
+        padding: 50px 0;
+    }
+    .hk_domain_info{
+        margin-bottom: 30px;
+    }
+    .hk_domains_price_name{
+        margin-top: 10px;
+    }
+    .hk_domain_info h2{
+        font-size: 22px;
+    }
+    .domain_name{
+        width: 57%;
+    }
+    .hk_search_form input{
+        line-height: 35px;
+    }
+    .hk_select select{
+        padding: 0 20px;
+        height: 53px;
+    }
+    .hk_search_form .hk_btn{
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+    .feature_icon{
+        display: inline-block;
+    }
+    
+    
+    /* home-2 promot area */
+    .hk_promot_section2 .hk_promot_wrapper{
+        padding-top: 85px;
+        padding-bottom: 102px;
+    }
+    .container.hk_relative{
+        position: relative;
+    }
+    .hk_promot_section2 .hk_section_title h1{
+        line-height: 44px;
+    }
+    .container.hk_relative .col-md-8.col-sm-7{
+        z-index: 2;
+    }
+    .col-md-4.col-sm-5.hk_absolute.no-padding{
+        position: absolute;
+        height: 100%;
+        width: 100%;
+        top: 0;
+        opacity: 0.07;
+    }
+
+    /* feature are3a */
+    .hk_single_feature,
+    .hk_single_feature.hk_ptr{
+        border-right: 0 none;
+        min-height: 200px;
+        padding: 0 !important;
+        text-align: center;
+        border-bottom: none;
+    }
+    .hk_single_price_table{
+        margin-bottom: 60px;
+        border: 1px solid #e0f5ff;
+    }
+    .hk_pricing_title{
+        margin-bottom: 80px;
+    }
+    .hk_pricing_bg{
+        height: auto;
+    }
+    .hk_pricing_section  .row > .col-md-3:last-child > .hk_single_price_table{
+        margin-bottom: 19px;
+    }
+
+
+    /* service area */
+    .hk_sercvice_icon .hover_overlay{
+        display: block;
+    }
+    .hk_sercvice_icon .hover_overlay p{
+        padding-top: 20px;
+    }
+    .hk_single_hosting_wrapper{
+        text-align: center;
+        margin-bottom: 60px;
+    }
+    .hk_single_hosting_service::before,
+    .hk_single_hosting_service.hk_right_hosting::after{
+        display: none;
+    }
+    .hk_single_hosting_service::after{
+        content: '';
+        position: absolute;
+        height: 40px;
+        width: 1px;
+        background: #f1f1f1;
+        bottom: 15px;
+        left: 50%;
+    }
+
+    /* testimonial area */
+    .hk_testimonial_slider_wrapper_right{
+        margin-top: 100px;
+    }
+    .hk_testimonial_slider2 .hk_testimonial_slider_wrapper{
+        padding: 0 40px;
+    }
+    .host_home1 .hk_testimonial_wrapper .hk_section_title{
+        padding-bottom: 40px;
+    }
+    .hk_testimonial_contents{
+        border: none;
+        padding-left: 0;
+    }
+    .hk_partner{
+        position: initial;
+        overflow: hidden;
+        width: 100%;
+    }
+    .rtl.hk_section_title,
+    .ltr.hk_section_title{
+        text-align: center;
+        padding-bottom: 40px;
+    }
+    .rtl.hk_section_title h1::before,
+    .ltr.hk_section_title h1::before{
+        left: 50%;
+        -webkit-transform: translateX(-50%);
+        -ms-transform: translateX(-50%);
+        -o-transform: translateX(-50%);
+        transform: translateX(-50%);
+    }
+    /* app section */
+    .hk_promot_section{
+        text-align: center;
+        padding: 50px 0;
+    }
+    .hk_promot_btn{
+        float: none;
+    }
+    .hk_promot_text h2{
+        font-size: 25px;
+        line-height: 35px;
+        margin-bottom: 15px;
+    }
+
+    /* footer area */
+    .hk_sevice_wrapper{
+        padding: 0;
+    }
+    .hk_about_us_wrapper{
+        margin-bottom: 50px;
+    }
+    .hk_footer_widgets{
+        overflow: hidden;
+        margin-bottom: 50px;
+    }
+    .hk_footer_widgets .hk_widget_title{
+        padding-bottom: 30px;
+    }
+    .hk_footer_widgets.hk_footer_social{
+        margin-bottom: 0;
+    }
+    /* HOW IT WORKS AREA */
+    .hk_how_it_works .col-md-4.col-sm-4:last-child .hk_single_part{
+        margin: 0;
+    }
+
+    /* ABOUT US PAGE */
+    .hk_about_us_image{
+        margin-top: 48px;
+    }
+
+    .hk_single_team_member{
+        margin-bottom: 50px;
+    }
+
+
+    /* WEB HOSTING PAGE STYLES */
+    .hk_arrow{
+        display: none;
+    }
+    .hk_single_part{
+        margin-bottom: 60px;
+    }
+
+    /* LOGIN SIGNUP PAGE */
+    .hk_login_wrapper{
+        margin-bottom: 70px;
+    }
+    /* BLOG PAGE CSS */
+    .blog-page .hk_single_blog_wrapper.no-margin{
+        margin-bottom: 30px;
+    }
+    /* SINGLE BLOG PAGE CSS */
+    .single-blog .hk_blog_title a h4{
+        font-size: 22px;
+    }
+    .hk_comment_title{
+        padding-bottom: 25px;
+    }
+    .hk_comment_title p{
+        line-height: 25px;
+        margin-top: 20px;
+    }
+    .tag_share .share,
+    .tag_share .tags{
+        float: none;
+    }
+    .tag_share .share{
+        margin-top: 20px;
+    }
+    .tag_share .tags ul li a{
+        line-height: 25px;
+    }
+    .hk_comment_form input[type="text"], 
+    .hk_comment_form input[type="email"], .hk_comment_form textarea{
+        margin-bottom: 20px;
+    }
+    .single-blog .hk_input_wrapper.left,
+    .single-blog .hk_input_wrapper.right{
+        padding: 0;
+    }
+    
+    /* CONTACT PAGE */
+    .hk_contact_area_title{
+        padding-bottom: 30px;
+    }
+    .hk_contact_form_wrapper{
+        margin-top: 20px;
+    }
+    #hk_map_area{
+        height: 300px;
+    }
+
+    /* domain search page */
+    .hk_domain_suggestion ul li{
+        padding: 20px;
+    }
+    .hk_sug_domian_name p{
+        line-height: 30px;
+    }
+    .hk_domain_price .cart_btn{
+        width: 130px;
+        float: left;
+    }
+    .hk_domain_price .active_price{
+        font-size: 14px;
+    }
+    .hk_domain_price span{
+        margin-right: 20px;
+    }
+    .hk_sug_domian_name,
+    .hk_domain_price{
+        float: none;
+    }
+    .domain-search .hk_search_form .hk_btn{
+        width: auto;
+        border-radius: 3px;
+    }
+
+    /* CART PAGE */
+    .hk_cart_item .hk_price_select > p{
+        padding-left: 10px;
+        padding-right: 20px;
+    }
+    .hk_cart_item .hk_price_select > p::before{
+        right: 5px;
+    }
+    .hk_cart_item td .hk_cart_icon{
+        height: 25px;
+        width: 25px;
+        margin: 0;
+    }
+    .hk_cart_section .hk_form_wrapper{
+        margin-bottom: 30px;
+    }
+
+    /* CHECKOUT PAGE */
+    .checkout-page .hk_form_wrapper{
+        margin-bottom: 40px;
+    }
+}
+
+
+/*////////////// SMALL DEVICES( mobile phones ) //////////////*/
+@media (min-width: 480px) and (max-width: 767px){
+    .container{
+        width: 450px;
+    }
+    .hk_tiny_header .hk_contact_lang li a{
+        padding-right: 11px;
+    }
+    .hk_apps_area_wrapper{
+        padding: 50px 0;
+    }
+    .hk_app_svg_content{
+        top: -101px;
+    }
+    .hk_domain_search_wrapper{
+        width: calc(450px + 18px);
+    }
+    .hk_rocket,.hk_birds{
+        width: 250px;
+    }
+    .hk_rocket{
+        margin-left: -179px;
+    }
+    .hk_cloud{
+        width: 300px;
+        top: 39px;
+    }
+    .testimonial_slider_wrapper,
+    .hk_testimonial_slider_nav{
+        float: none;
+        display: inline-block;
+    }
+    
+    /* HOST HOME-1 CSS */
+    .host_home1 .hk_header_single_service{
+        min-height: auto;
+        padding: 20px 0;
+    }
+    .host_home1 .hk_tab_nav_wrapper ul li{
+        width: 100%;
+        border-bottom: 1px solid #3ba4ff;
+    }
+    .hk_tab_nav_wrapper ul li:nth-child(3){
+        border-top:none;
+        border-right: none;
+    }
+    .hk_tab_nav_wrapper ul li:nth-child(4){
+        border-bottom: none;
+        border-top: none;
+    }
+    .hk_single_price_table{
+        margin-left: 30px;
+        margin-right: 30px;
+    }
+}
+
+
+/*////////////// EXTRA SMALL DEVICES //////////////*/
+@media (min-width: 300px) and (max-width: 479px){
+    .container{
+        width: 300px;
+    }
+    .hk_section_title h1{
+        line-height: 42px;
+        font-size: 28px;
+    }
+    .hk_hero_area{
+        padding-top: 105px;
+        padding-bottom: 100;
+    }
+    .host_home1 .hk_hero_area{
+        padding: 100px 0;
+    }
+    .hk_slider_xs{
+        display: block;
+        width: 100%;
+        margin-right: 0;
+    }
+    .hk_slider_contents .slider p{
+        display: block;
+        padding-bottom: 30px;
+    }
+    .hk_slider_globe_wrapper{
+        padding-top: 40px;
+    }
+    .hk_header_single_service{
+        padding: 17px;
+    }
+    .hk_header_single_service .hk_service_icon{
+        height: 25px;
+        width: 25px;
+    }
+    .exs-fullwidth{
+        width: 100%;
+    }
+    .hk_header_single_service{
+        min-height: auto;
+    }
+    .hk_tab_content_wrapper{
+        margin-top: 30px;
+    }
+    .hk_pack_feature ul{
+        margin-bottom: 25px;
+    }
+    .hk_clients_area{
+        padding: 40px 0;
+    }
+
+    /* domain area */
+    .hk_domain_search_wrapper{
+        width: 100%;
+    }
+    .hk_domains_price_name{
+        text-align: center;
+    }
+    .hk_domains_price_name > span::after{
+        right: 7px;
+    }
+    .hk_domain_info{
+        margin-bottom: 20px;
+    }
+    .hk_other_option > a{
+        padding-right: 20px;
+    }
+    .hk_other_option > a::before{
+        right: 7px;
+    }
+    .hk_domains_price_name > span{
+        padding-right: 20px;
+    }
+    .domain_name{
+        width: 100%;
+    }
+    .hk_select,.hk_search_form .hk_btn{
+        width: 50%;
+    }
+    .hk_search_form .domain_name{
+        border-top-right-radius: 3px;
+        border-bottom-right-radius: 3px;
+        margin-bottom: 15px;
+        margin-right: 0;
+    }
+    .hk_select > select{
+        width: 100%;
+        border-top-left-radius: 3px;
+        border-bottom-left-radius: 3px;
+    }
+    .host_home1 .hk_domain_info{
+        margin: 0;
+    }
+    .host_home1 .hk_domain_info h2{
+        font-size: 22px;
+    }
+    .host_home1 .hk_select, 
+    .host_home1 .hk_search_form .hk_btn{
+        width: 100%;
+        border-radius: 3px;
+    }
+
+    /* promot area */
+    .hk_apps_section{
+        padding-bottom: 0;
+    }
+    .hk_rocket{
+        margin-left: -237px;
+    }
+    .rocket_1{
+        display: none;
+    }
+    .hk_birds{
+        width: 210px;
+    }
+    .hk_cloud{
+        width: 226px;
+    }
+    .hk_apps_area_wrapper{
+        padding: 60px 0;
+    }
+    .hk_app_svg_content{
+        top: -66px;
+    }
+    .col-md-4.col-sm-5.hk_absolute.no-padding{
+        height: auto;
+        top: 50%;
+        -webkit-transform: translateY(-50%);
+        -ms-transform: translateY(-50%);
+        -o-transform: translateY(-50%);
+        transform: translateY(-50%);
+    }
+    .hk_client_img{
+        display: inline-block;
+    }
+    /* faq area */
+    .panel-title a{
+        font-size: 13px;
+    }
+
+    /* testimonial area */
+    .testimonial_slider_wrapper{
+        display: block;
+        width: 100%;
+    }
+    .hk_testimonial_wrapper .hk_testimonial_contents{
+        padding: 0;
+    }
+    .testimonial_slider_wrapper,
+    .hk_testimonial_slider_nav{
+        float: none;
+    }
+    .hk_testimonial_slider_nav{
+        width: 100%;
+    }
+    .hk_testimonial_slider_wrapper{
+        text-align: center;
+    }
+    .hk_testimonial_slider .media-left.media-middle{
+        width: 100%;
+        display: inline-block;
+        text-align: center;
+        padding: 0;
+    }
+    .hk_testimonial_slider_wrapper .media-body{
+        padding-right: 0;
+    }
+    .hk_testimonial_slider_nav::before,
+    .hk_testimonial_slider_nav::after{
+        height: 100%;
+        width: 50px;
+    }
+    .hk_testimonial_slider_nav::before{
+        right: 0;
+    }
+    .hk_testimonial_slider_nav::after{
+        left: 0;
+    }
+    .hk_nav_image.slick-slide{
+        margin-bottom: 0;
+    }
+    .hk_testimonial_slider_nav .fa.fa-angle-up.slick-arrow, 
+    .hk_testimonial_slider_nav .fa.fa-angle-down.slick-arrow{
+        position: absolute;
+        left: 0;
+        line-height: 19px;
+    }
+    .hk_testimonial_slider_nav .fa.fa-angle-up.slick-arrow{
+        left: 100%;
+        top: 50%;
+        -webkit-transform: translate(-100%,-50%) rotate(90deg);
+        -ms-transform: translate(-100%,-50%) rotate(90deg);
+        -o-transform: translate(-100%,-50%) rotate(90deg);
+        transform: translate(-100%,-50%) rotate(90deg);
+    }
+    .hk_testimonial_slider_nav .fa.fa-angle-down.slick-arrow{
+        bottom: 50%;
+        -webkit-transform: translateY(50%) rotate(90deg);
+        -ms-transform: translateY(50%) rotate(90deg);
+        -o-transform: translateY(50%) rotate(90deg);
+        transform: translateY(50%) rotate(90deg);
+        left: 13px;
+    }
+    .hk_nav_image.slick-slide > img{
+        margin-left: 16px;
+    }
+    .hk_testimonial_slider_nav.slick-initialized.slick-slider {
+        margin-top: 35px;
+    }
+    .hk_partner .hk_single_partner{
+        width: 100%;
+        border-bottom: 1px solid #eee!important;
+    }
+    .hk_partner .hk_single_partner:last-child{
+        border: none!important;
+    }
+    .hk_partner .hk_single_partner:first-child, 
+    .hk_partner .hk_single_partner:nth-child(3){
+        border-right: none;
+    }
+
+    .hk_remember_forgot label{
+        margin-right: 16px;
+    }
+    .hk_login_btn_wrapper .hk_btn,
+    .hk_remember_forgot{
+        float: none;
+    }
+    .hk_login_btn_wrapper{
+        text-align: center;
+        margin-top: 25px;
+    }
+    .hk_login-signup .hk_form_wrapper .hk_input_half_width{
+        width: 100%;
+        margin-right: 0;
+    }
+
+    /* CONTACT PAGE CSS */
+    .hk_info .hk_span_left{
+        display: block;
+    }
+    .hk_single_info .hk_info{
+         margin-bottom: 10px;
+    }
+    .hk_single_info .hk_info:last-child{
+        margin-bottom: 0;
+    }
+    .hk_form_wrapper .hk_input_half_width{
+        width: 100%;
+        margin-right: 0;
+    }
+    .hk_form_wrapper .hk_input_half_width.left{
+        margin-right: 0;
+        margin-bottom: 20px;
+    }
+    
+    /* CHECKOUT PAGE */
+    .hk_purchase_procced_area > ul > li{
+        padding: 0 20px;
+    }
+    .hk_purchase_procced_area > ul > li.hk_payment{
+        padding: 20px;
+    }
+    .hk_left_icon label{
+        margin-bottom: 10px;
+    }
+    .hk_left_icon span{
+        margin-left: 10px;
+    }
+    .credit_cards{
+        float: none;
+    }
+
+    /* DOMAIN SEARCH AREA */
+    .hk_domain_search_result_wrapper .hk_domain_price .cart_btn{
+        float: none;
+    }
+}
+
